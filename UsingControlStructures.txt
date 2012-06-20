@@ -1,0 +1,56 @@
+Python 2.7.2+ (default, Oct  4 2011, 20:03:08) 
+[GCC 4.6.1] on linux2
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+LAB02, PART II
+
+Question 5
+
+Enter an integer: 35
+the value you enteed is odd
+
+-----------------------------------------------------------------------
+
+Question 6
+Enter an age: 45
+Remember to vote
+Vote for me
+
+-----------------------------------------------------------------------
+
+Question 7
+the multiples of 3 between 40 and 0 in descending order are: 
+39
+36
+33
+30
+27
+24
+21
+18
+15
+12
+9
+6
+3
+0
+
+-----------------------------------------------------------------------
+
+Question 8
+the multiples of 3 between 6 and 30 are: 
+7
+11
+13
+17
+19
+23
+29
+
+-----------------------------------------------------------------------
+
+Question 9
+the number is: 
+70
+>>> 

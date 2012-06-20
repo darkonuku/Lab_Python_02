@@ -1,0 +1,14 @@
+Python 2.7.2+ (default, Oct  4 2011, 20:03:08) 
+[GCC 4.6.1] on linux2
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+LAB02, Question 3
+
+2
+4
+6
+8
+10
+ we run through this loop body 9 times
+>>> 

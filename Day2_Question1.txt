@@ -1,0 +1,35 @@
+Python 2.7.2+ (default, Oct  4 2011, 20:03:08) 
+[GCC 4.6.1] on linux2
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+LAB02, PART 1
+
+Question 1
+enter x: 2
+enter y: 5
+x is 2
+>>> ================================ RESTART ================================
+>>> 
+LAB02, PART 1
+
+Question 1
+enter x: 3
+enter y: 1
+>>> ================================ RESTART ================================
+>>> 
+LAB02, PART 1
+
+Question 1
+enter x: 1
+enter y: 1
+x is 1
+>>> ================================ RESTART ================================
+>>> 
+LAB02, PART 1
+
+Question 1
+enter x: 4
+enter y: 3
+z is 7
+>>> 
